@@ -89,7 +89,4 @@ The code is modular, readable, and well-documented. Each component handles a sin
 
 All setup instructions, project overview, and usage details are included in this README for clarity.
 
----
-
-## 📂 Folder Structure
 
