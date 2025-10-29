@@ -89,8 +89,11 @@ The code is modular, readable, and well-documented. Each component handles a sin
 
 All setup instructions, project overview, and usage details are included in this README for clarity.
 
-Name: kaluri krishna chaitanya
-Role: Data Analyst / React Developer
-Date: October 2025
-GitHub: https://github.com/krishnachaitanya9494
+## ✨ Author
+
+**Name:** Kaluri Krishna Chaitanya  
+**Role:** Data Analyst / React Developer  
+**Date:** October 2025  
+**GitHub:** [https://github.com/krishnachaitanya9494](https://github.com/krishnachaitanya9494)
+
 
